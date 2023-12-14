@@ -8,10 +8,8 @@ sites:
     url: https://negotiator.bbmri-eric.eu
   - name: Directory
     url: https://directory.bbmri-eric.eu
-  - name: Locator
-    url: https://locator.bbmri-eric.eu
-  - name: Finder
-    url: https://finder.bbmri-eric.eu
+  - name: BBMRI.de Sample Locator
+    url: https://samplelocator.bbmri.de/
 
 status-website:
   cname: status.bbmri-eric.eu
