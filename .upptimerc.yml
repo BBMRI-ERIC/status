@@ -8,8 +8,10 @@ sites:
     url: https://negotiator.bbmri-eric.eu
   - name: Directory
     url: https://directory.bbmri-eric.eu
+  - name: LifeScience AAI
+    url: https://perun.aai.lifescience-ri.eu
   - name: BBMRI.de Sample Locator
-    url: https://samplelocator.bbmri.de/
+    url: https://samplelocator.bbmri.de
 
 status-website:
   cname: status.bbmri-eric.eu
