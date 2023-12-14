@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bbmri-eric.eu
   theme: light
-  baseUrl: /status
+  #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: BBMRI-ERIC Status
   introTitle: "**BBMRI-ERIC Status page**"
