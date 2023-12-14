@@ -1,32 +1,28 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: bbmri-eric 
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BBMRI-ERIC
+    url: https://bbmri-eric.eu
+  - name: Negotiator
+    url: https://negotiator.bbmri-eric.eu
+  - name: Directory
+    url: https://directory.bbmri-eric.eu
+  - name: Locator
+    url: https://locator.bbmri-eric.eu
+  - name: Finder
+    url: https://finder.bbmri-eric.eu
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bbmri-eric.eu
   theme: light
-  #baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.bbmri-eric.eu/wp-content/themes/bbmri-eric/img/BBMRI-ERIC-gateway-for-health.svg
+  favicon: https://www.bbmri-eric.eu/wp-content/uploads/favicon.png
   name: BBMRI-ERIC Status
   introTitle: "**BBMRI-ERIC Status page**"
-  introMessage: This is a status page for BBMRI-ERIC services. 
+  introMessage: This is a status page for BBMRI-ERIC services. If you encounter downgraded performance in any of the services and it is not reported here, please email us at it@helpdesk.bbmri-eric.eu
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
