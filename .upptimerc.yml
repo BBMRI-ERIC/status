@@ -11,7 +11,7 @@ sites:
   - name: LifeScience Login
     url: https://login.bbmri-eric.eu/oidc/.well-known/openid-configuration
     icon: https://lifescience-ri.eu/fileadmin/lifescience-ri/media/Images/login-grey-wide.jpg.png
-  - name: Perun IAM
+  - name: LifeScience Login IdM (Perun)
     url: https://perun.aai.lifescience-ri.eu
     icon: https://perun.aai.lifescience-ri.eu/assets/img/perun.ico
   - name: BBMRI.de Sample Locator
