@@ -8,6 +8,8 @@ sites:
     url: https://negotiator.bbmri-eric.eu
   - name: Directory
     url: https://directory.bbmri-eric.eu
+  - name: Helpdesk
+    url: https://helpdesk.bbmri-eric.eu/RT
   - name: LifeScience Login
     url: https://login.bbmri-eric.eu/oidc/.well-known/openid-configuration
     icon: https://lifescience-ri.eu/fileadmin/lifescience-ri/media/Images/login-grey-wide.jpg.png
@@ -16,8 +18,6 @@ sites:
     icon: https://perun.aai.lifescience-ri.eu/assets/img/perun.ico
   - name: BBMRI.de Sample Locator
     url: https://samplelocator.bbmri.de
-  - name: Locator
-    url: https://locator.bbmri-eric.eu
 
 status-website:
   cname: status.bbmri-eric.eu
