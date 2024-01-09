@@ -16,6 +16,8 @@ sites:
     icon: https://perun.aai.lifescience-ri.eu/assets/img/perun.ico
   - name: BBMRI.de Sample Locator
     url: https://samplelocator.bbmri.de
+  - name: Locator
+    url: https://locator.bbmri-eric.eu
 
 status-website:
   cname: status.bbmri-eric.eu
