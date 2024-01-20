@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bbmri-eric.eu.ico",
     "slug": "bbmri-eric",
     "status": "up",
-    "uptime": "77.57%",
+    "uptime": "77.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "73.10%",
-    "uptimeYear": "77.57%",
+    "uptimeYear": "77.71%",
     "time": 3769,
     "timeDay": 2529,
     "timeWeek": 3286,
@@ -126,17 +126,19 @@
     "url": "https://samplelocator.bbmri.de",
     "icon": "https://icons.duckduckgo.com/ip3/samplelocator.bbmri.de.ico",
     "slug": "bbmri-de-sample-locator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1108,
-    "timeDay": 1126,
-    "timeWeek": 1090,
-    "timeMonth": 1146,
-    "timeYear": 1108,
-    "dailyMinutesDown": {}
+    "time": 1101,
+    "timeDay": 970,
+    "timeWeek": 1055,
+    "timeMonth": 1136,
+    "timeYear": 1101,
+    "dailyMinutesDown": {
+      "2024-01-20": 0
+    }
   }
 ]
