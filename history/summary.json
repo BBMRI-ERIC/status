@@ -126,19 +126,19 @@
     "url": "https://samplelocator.bbmri.de",
     "icon": "https://icons.duckduckgo.com/ip3/samplelocator.bbmri.de.ico",
     "slug": "bbmri-de-sample-locator",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1102,
-    "timeDay": 1056,
-    "timeWeek": 1072,
-    "timeMonth": 1136,
-    "timeYear": 1102,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1115,
+    "timeDay": 1177,
+    "timeWeek": 1126,
+    "timeMonth": 1151,
+    "timeYear": 1115,
     "dailyMinutesDown": {
-      "2024-01-20": 9
+      "2024-01-20": 18
     }
   }
 ]
