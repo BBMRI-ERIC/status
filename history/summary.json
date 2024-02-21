@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "78.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.95%",
-    "uptimeMonth": "78.72%",
+    "uptimeWeek": "7.89%",
+    "uptimeMonth": "78.70%",
     "uptimeYear": "78.59%",
     "time": 3622,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 3412,
     "timeYear": 3622,
     "dailyMinutesDown": {
-      "2024-02-21": 6,
+      "2024-02-21": 13,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -45,9 +45,9 @@
     "slug": "negotiator",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 924,
     "timeDay": 1331,
@@ -55,7 +55,7 @@
     "timeMonth": 881,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2024-02-21": 0,
+      "2024-02-21": 7,
       "2024-02-19": 18
     }
   },
