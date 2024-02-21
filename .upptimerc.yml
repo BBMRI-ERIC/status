@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: BBMRI-ERIC
-    url: https://bbmri-eric.eu
+    url: https://www.bbmri-eric.eu
   - name: Negotiator
     url: https://negotiator.bbmri-eric.eu
   - name: Directory
