@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbmri-eric.eu.ico",
     "slug": "bbmri-eric",
     "status": "up",
-    "uptime": "85.92%",
+    "uptime": "85.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "85.92%",
+    "uptimeYear": "85.93%",
     "time": 3019,
     "timeDay": 2011,
     "timeWeek": 1808,
@@ -53,7 +53,7 @@
     "time": 865,
     "timeDay": 738,
     "timeWeek": 639,
-    "timeMonth": 759,
+    "timeMonth": 763,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2024-02-21": 450,
@@ -74,7 +74,7 @@
     "time": 964,
     "timeDay": 891,
     "timeWeek": 878,
-    "timeMonth": 878,
+    "timeMonth": 877,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2024-02-23": 448,
@@ -95,7 +95,7 @@
     "time": 806,
     "timeDay": 752,
     "timeWeek": 684,
-    "timeMonth": 776,
+    "timeMonth": 780,
     "timeYear": 806,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "time": 1873,
     "timeDay": 1124,
     "timeWeek": 1351,
-    "timeMonth": 3206,
+    "timeMonth": 3150,
     "timeYear": 1873,
     "dailyMinutesDown": {
       "2024-03-29": 3,
@@ -137,7 +137,7 @@
     "time": 1303,
     "timeDay": 1054,
     "timeWeek": 1116,
-    "timeMonth": 1399,
+    "timeMonth": 1382,
     "timeYear": 1303,
     "dailyMinutesDown": {
       "2024-03-17": 21,
@@ -161,7 +161,7 @@
     "time": 1100,
     "timeDay": 1050,
     "timeWeek": 958,
-    "timeMonth": 1054,
+    "timeMonth": 1052,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2024-03-22": 721,
