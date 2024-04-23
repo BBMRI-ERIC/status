@@ -1,7 +1,7 @@
 url: https://login.bbmri-eric.eu/oidc/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 1529
-lastUpdated: 2024-04-22T23:01:24.975Z
+responseTime: 952
+lastUpdated: 2024-04-23T23:01:38.727Z
 startTime: 2023-12-14T13:38:30.382Z
 generator: Upptime <https://github.com/upptime/upptime>
