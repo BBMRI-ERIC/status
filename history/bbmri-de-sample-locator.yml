@@ -1,7 +1,7 @@
 url: https://samplelocator.bbmri.de
-status: down
-code: 404
-responseTime: 1154
-lastUpdated: 2024-04-23T04:40:16.326Z
+status: up
+code: 200
+responseTime: 1182
+lastUpdated: 2024-04-23T05:55:42.356Z
 startTime: 2023-12-14T13:11:32.743Z
 generator: Upptime <https://github.com/upptime/upptime>
