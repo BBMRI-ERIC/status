@@ -133,7 +133,7 @@
     "url": "https://perun.aai.lifescience-ri.eu",
     "icon": "https://perun.aai.lifescience-ri.eu/assets/img/perun.ico",
     "slug": "life-science-login-id-m-perun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "97.78%",
     "uptimeWeek": "99.60%",
