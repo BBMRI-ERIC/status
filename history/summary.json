@@ -6,7 +6,7 @@
     "slug": "bbmri-eric",
     "status": "down",
     "uptime": "93.48%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.48%",
@@ -17,7 +17,6 @@
     "timeYear": 2779,
     "dailyMinutesDown": {
       "2024-07-31": 0,
-      "2024-06-23": 9,
       "2024-04-18": 9,
       "2024-03-14": 9,
       "2024-02-21": 465,
@@ -124,7 +123,6 @@
     "timeMonth": 1203,
     "timeYear": 1568,
     "dailyMinutesDown": {
-      "2024-05-23": 9,
       "2024-05-09": 36,
       "2024-04-05": 29,
       "2024-03-29": 3,
