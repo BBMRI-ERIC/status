@@ -11,7 +11,7 @@ sites:
   - name: Helpdesk
     url: https://helpdesk.bbmri-eric.eu/RT
   - name: LifeScience Login
-    url: https://login.bbmri-eric.eu/oidc/.well-known/openid-configuration
+    url: https://login.aai.lifescience-ri.eu/oidc/.well-known/openid-configuration
     icon: https://lifescience-ri.eu/fileadmin/lifescience-ri/media/Images/login-grey-wide.jpg.png
   - name: LifeScience Login IdM (Perun)
     url: https://perun.aai.lifescience-ri.eu
