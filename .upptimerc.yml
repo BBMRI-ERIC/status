@@ -16,6 +16,8 @@ sites:
   - name: LifeScience Login IdM (Perun)
     url: https://perun.aai.lifescience-ri.eu
     icon: https://perun.aai.lifescience-ri.eu/assets/img/perun.ico
+  - name: Locator
+    url: https://locator.bbmri-eric.eu
   - name: BBMRI.de Sample Locator
     url: https://samplelocator.bbmri.de
 
