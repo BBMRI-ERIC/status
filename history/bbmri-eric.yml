@@ -1,7 +1,7 @@
 url: https://www.bbmri-eric.eu
-status: up
-code: 200
-responseTime: 2550
-lastUpdated: 2025-03-17T23:01:34.390Z
+status: down
+code: 500
+responseTime: 1904
+lastUpdated: 2025-03-18T19:00:17.162Z
 startTime: 2023-12-14T12:49:33.814Z
 generator: Upptime <https://github.com/upptime/upptime>
