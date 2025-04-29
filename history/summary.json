@@ -4,18 +4,19 @@
     "url": "https://www.bbmri-eric.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bbmri-eric.eu.ico",
     "slug": "bbmri-eric",
-    "status": "up",
+    "status": "down",
     "uptime": "96.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.86%",
-    "time": 2574,
+    "time": 2571,
     "timeDay": 2269,
     "timeWeek": 2152,
     "timeMonth": 2367,
     "timeYear": 2505,
     "dailyMinutesDown": {
+      "2025-04-29": 2,
       "2025-02-03": 41,
       "2025-01-22": 176,
       "2025-01-21": 38,
@@ -33,10 +34,10 @@
     "url": "https://negotiator.bbmri-eric.eu",
     "icon": "https://icons.duckduckgo.com/ip3/negotiator.bbmri-eric.eu.ico",
     "slug": "negotiator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
@@ -44,17 +45,19 @@
     "timeWeek": 703,
     "timeMonth": 798,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 2
+    }
   },
   {
     "name": "Directory",
     "url": "https://directory.bbmri-eric.eu",
     "icon": "https://icons.duckduckgo.com/ip3/directory.bbmri-eric.eu.ico",
     "slug": "directory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.28%",
     "time": 964,
@@ -63,6 +66,7 @@
     "timeMonth": 965,
     "timeYear": 980,
     "dailyMinutesDown": {
+      "2025-04-29": 1,
       "2025-04-09": 24,
       "2025-01-23": 34,
       "2025-01-15": 577,
@@ -86,9 +90,9 @@
     "url": "https://helpdesk.bbmri-eric.eu/RT",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.bbmri-eric.eu.ico",
     "slug": "helpdesk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +101,9 @@
     "timeWeek": 1035,
     "timeMonth": 881,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   },
   {
     "name": "LifeScience Login",
@@ -138,7 +144,7 @@
     "timeDay": 1280,
     "timeWeek": 1258,
     "timeMonth": 1190,
-    "timeYear": 1497,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2024-11-25": 28,
       "2024-05-29": 29,
