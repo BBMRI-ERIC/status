@@ -161,9 +161,9 @@
     "url": "https://locator.bbmri-eric.eu",
     "icon": "https://icons.duckduckgo.com/ip3/locator.bbmri-eric.eu.ico",
     "slug": "locator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,7 +172,9 @@
     "timeWeek": 522,
     "timeMonth": 799,
     "timeYear": 737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-03": 0
+    }
   },
   {
     "name": "BBMRI.de Sample Locator",
