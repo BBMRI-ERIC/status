@@ -1,7 +1,7 @@
 url: https://login.aai.lifescience-ri.eu/oidc/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 1510
-lastUpdated: 2025-07-08T23:01:38.868Z
+responseTime: 1411
+lastUpdated: 2025-07-09T23:01:29.851Z
 startTime: 2023-12-14T13:38:30.382Z
 generator: Upptime <https://github.com/upptime/upptime>
