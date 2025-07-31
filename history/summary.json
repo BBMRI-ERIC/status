@@ -14,7 +14,7 @@
     "timeDay": 1742,
     "timeWeek": 3106,
     "timeMonth": 2440,
-    "timeYear": 2495,
+    "timeYear": 2496,
     "dailyMinutesDown": {
       "2025-07-05": 39,
       "2025-04-29": 19,
@@ -45,7 +45,7 @@
     "timeDay": 427,
     "timeWeek": 694,
     "timeMonth": 744,
-    "timeYear": 771,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2025-04-29": 18
     }
@@ -65,7 +65,7 @@
     "timeDay": 654,
     "timeWeek": 1158,
     "timeMonth": 1064,
-    "timeYear": 988,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2025-07-26": 18,
       "2025-07-13": 1327,
@@ -103,7 +103,7 @@
     "timeDay": 553,
     "timeWeek": 831,
     "timeMonth": 878,
-    "timeYear": 868,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2025-05-19": 470,
       "2025-05-18": 626,
@@ -115,14 +115,14 @@
     "url": "https://login.aai.lifescience-ri.eu/oidc/.well-known/openid-configuration",
     "icon": "https://lifescience-ri.eu/fileadmin/lifescience-ri/media/Images/login-grey-wide.jpg.png",
     "slug": "life-science-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "67.52%",
+    "uptimeDay": "69.39%",
     "uptimeWeek": "68.82%",
-    "uptimeMonth": "92.83%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.35%",
-    "time": 1444,
-    "timeDay": 1370,
+    "time": 1443,
+    "timeDay": 1389,
     "timeWeek": 1330,
     "timeMonth": 1375,
     "timeYear": 1397,
@@ -157,7 +157,7 @@
     "timeDay": 867,
     "timeWeek": 1175,
     "timeMonth": 1221,
-    "timeYear": 1190,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-05-07": 74,
       "2024-11-25": 28
@@ -202,7 +202,7 @@
     "timeDay": 781,
     "timeWeek": 1058,
     "timeMonth": 1223,
-    "timeYear": 1398,
+    "timeYear": 1401,
     "dailyMinutesDown": {
       "2025-05-29": 16,
       "2025-05-05": 16,
