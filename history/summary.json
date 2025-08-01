@@ -115,11 +115,11 @@
     "url": "https://login.aai.lifescience-ri.eu/oidc/.well-known/openid-configuration",
     "icon": "https://lifescience-ri.eu/fileadmin/lifescience-ri/media/Images/login-grey-wide.jpg.png",
     "slug": "life-science-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "69.97%",
-    "uptimeWeek": "63.70%",
-    "uptimeMonth": "91.59%",
+    "uptimeDay": "69.95%",
+    "uptimeWeek": "63.73%",
+    "uptimeMonth": "91.65%",
     "uptimeYear": "99.30%",
     "time": 1451,
     "timeDay": 1297,
@@ -134,7 +134,7 @@
       "2025-07-28": 661,
       "2025-07-27": 525,
       "2025-07-26": 458,
-      "2025-07-25": 166
+      "2025-07-25": 141
     }
   },
   {
@@ -164,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/locator.bbmri-eric.eu.ico",
     "slug": "locator",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
