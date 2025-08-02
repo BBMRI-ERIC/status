@@ -115,13 +115,13 @@
     "url": "https://login.aai.lifescience-ri.eu/oidc/.well-known/openid-configuration",
     "icon": "https://lifescience-ri.eu/fileadmin/lifescience-ri/media/Images/login-grey-wide.jpg.png",
     "slug": "life-science-login",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "73.32%",
-    "uptimeWeek": "64.39%",
-    "uptimeMonth": "91.79%",
-    "uptimeYear": "99.32%",
-    "time": 1450,
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "73.30%",
+    "uptimeWeek": "65.23%",
+    "uptimeMonth": "92.00%",
+    "uptimeYear": "99.33%",
+    "time": 1451,
     "timeDay": 1357,
     "timeWeek": 1320,
     "timeMonth": 1358,
@@ -134,7 +134,7 @@
       "2025-07-29": 448,
       "2025-07-28": 661,
       "2025-07-27": 525,
-      "2025-07-26": 421
+      "2025-07-26": 331
     }
   },
   {
