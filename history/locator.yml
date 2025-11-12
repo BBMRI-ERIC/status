@@ -1,7 +1,7 @@
 url: https://locator.bbmri-eric.eu
-status: up
-code: 200
-responseTime: 692
-lastUpdated: 2025-11-11T23:03:11.423Z
+status: down
+code: 404
+responseTime: 579
+lastUpdated: 2025-11-12T07:12:45.064Z
 startTime: 2025-03-14T11:39:04.386Z
 generator: Upptime <https://github.com/upptime/upptime>
