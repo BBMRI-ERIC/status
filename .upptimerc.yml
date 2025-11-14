@@ -20,6 +20,9 @@ sites:
     url: https://locator.bbmri-eric.eu
   - name: BBMRI.de Sample Locator
     url: https://samplelocator.bbmri.de
+  - name: BBMRI.cz Data Catalogue
+    url: https://data.bbmri.cz
+
 
 status-website:
   cname: status.bbmri-eric.eu
