@@ -154,7 +154,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/locator.bbmri-eric.eu.ico",
     "slug": "locator",
     "status": "down",
-    "uptime": "88.77%",
+    "uptime": "88.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -165,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2026-01-24": 688,
+      "2026-01-24": 699,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -236,19 +236,19 @@
     "url": "https://data.bbmri.cz",
     "icon": "https://icons.duckduckgo.com/ip3/data.bbmri.cz.ico",
     "slug": "bbmri-cz-data-catalogue",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 813,
-    "timeWeek": 897,
-    "timeMonth": 843,
-    "timeYear": 874,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 873,
+    "timeDay": 793,
+    "timeWeek": 882,
+    "timeMonth": 841,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2026-01-24": 0
+      "2026-01-24": 10
     }
   }
 ]
