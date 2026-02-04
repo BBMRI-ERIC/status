@@ -18,6 +18,7 @@ sites:
     icon: https://perun.aai.lifescience-ri.eu/assets/img/perun.ico
   - name: Locator
     url: https://locator.bbmri-eric.eu
+    __dangerous__disable_verify_peer: true
   - name: BBMRI.de Sample Locator
     url: https://samplelocator.bbmri.de
   - name: BBMRI.cz Data Catalogue
