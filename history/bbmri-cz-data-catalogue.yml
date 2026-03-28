@@ -1,7 +1,7 @@
 url: https://data.bbmri.cz
-status: down
-code: 503
-responseTime: 564
-lastUpdated: 2026-03-28T06:04:12.080Z
+status: up
+code: 200
+responseTime: 1217
+lastUpdated: 2026-03-28T06:32:55.107Z
 startTime: 2025-11-14T10:47:57.958Z
 generator: Upptime <https://github.com/upptime/upptime>
