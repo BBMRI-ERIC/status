@@ -58,17 +58,17 @@
     "url": "https://directory.bbmri-eric.eu",
     "icon": "https://icons.duckduckgo.com/ip3/directory.bbmri-eric.eu.ico",
     "slug": "directory",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 1078,
-    "timeDay": 941,
-    "timeWeek": 1185,
-    "timeMonth": 1250,
-    "timeYear": 1110,
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.36%",
+    "time": 1091,
+    "timeDay": 5128,
+    "timeWeek": 2554,
+    "timeMonth": 1622,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-06-30": 40,
       "2025-07-13": 1327,
@@ -77,7 +77,7 @@
       "2025-12-03": 313,
       "2025-12-02": 148,
       "2025-12-13": 294,
-      "2026-06-25": 0
+      "2026-06-25": 67
     }
   },
   {
