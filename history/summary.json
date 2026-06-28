@@ -160,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/locator.bbmri-eric.eu.ico",
     "slug": "locator",
     "status": "up",
-    "uptime": "90.07%",
+    "uptime": "90.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -224,13 +224,13 @@
     "url": "https://samplelocator.bbmri.de",
     "icon": "https://icons.duckduckgo.com/ip3/samplelocator.bbmri.de.ico",
     "slug": "bbmri-de-sample-locator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.92%",
-    "time": 1183,
+    "time": 1184,
     "timeDay": 1273,
     "timeWeek": 891,
     "timeMonth": 996,
@@ -244,7 +244,8 @@
       "2026-03-28": 55,
       "2026-04-22": 27,
       "2026-06-07": 18,
-      "2026-06-16": 79
+      "2026-06-16": 79,
+      "2026-06-28": 0
     }
   },
   {
