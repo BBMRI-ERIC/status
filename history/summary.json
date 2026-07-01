@@ -13,7 +13,7 @@
     "time": 2383,
     "timeDay": 3201,
     "timeWeek": 2184,
-    "timeMonth": 2138,
+    "timeMonth": 2108,
     "timeYear": 2460,
     "dailyMinutesDown": {
       "2025-07-05": 39,
@@ -45,7 +45,7 @@
     "time": 811,
     "timeDay": 711,
     "timeWeek": 800,
-    "timeMonth": 722,
+    "timeMonth": 705,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2025-08-19": 18,
@@ -60,14 +60,14 @@
     "slug": "directory",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.37%",
     "time": 1120,
     "timeDay": 933,
     "timeWeek": 2448,
-    "timeMonth": 1629,
+    "timeMonth": 1631,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-07-13": 1327,
@@ -76,8 +76,7 @@
       "2025-12-03": 313,
       "2025-12-02": 148,
       "2025-12-13": 294,
-      "2026-06-25": 67,
-      "2026-06-30": 7
+      "2026-06-25": 67
     }
   },
   {
@@ -94,7 +93,7 @@
     "time": 938,
     "timeDay": 825,
     "timeWeek": 861,
-    "timeMonth": 888,
+    "timeMonth": 844,
     "timeYear": 961,
     "dailyMinutesDown": {
       "2025-12-22": 54
@@ -114,7 +113,7 @@
     "time": 1408,
     "timeDay": 1344,
     "timeWeek": 1304,
-    "timeMonth": 1315,
+    "timeMonth": 1308,
     "timeYear": 1397,
     "dailyMinutesDown": {
       "2025-07-28": 304,
@@ -143,7 +142,7 @@
     "time": 1248,
     "timeDay": 1341,
     "timeWeek": 1216,
-    "timeMonth": 1210,
+    "timeMonth": 1182,
     "timeYear": 1288,
     "dailyMinutesDown": {
       "2025-11-19": 45,
@@ -168,7 +167,7 @@
     "time": 740,
     "timeDay": 657,
     "timeWeek": 663,
-    "timeMonth": 693,
+    "timeMonth": 678,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2025-11-12": 46,
@@ -233,7 +232,7 @@
     "time": 1179,
     "timeDay": 997,
     "timeWeek": 920,
-    "timeMonth": 997,
+    "timeMonth": 991,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2026-01-10": 18,
@@ -262,7 +261,7 @@
     "time": 838,
     "timeDay": 654,
     "timeWeek": 690,
-    "timeMonth": 640,
+    "timeMonth": 607,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2026-02-11": 40,
