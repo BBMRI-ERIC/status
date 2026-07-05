@@ -14,7 +14,7 @@
     "timeDay": 2497,
     "timeWeek": 3419,
     "timeMonth": 2295,
-    "timeYear": 2485,
+    "timeYear": 2488,
     "dailyMinutesDown": {
       "2026-01-13": 22,
       "2026-01-19": 15,
@@ -158,7 +158,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/locator.bbmri-eric.eu.ico",
     "slug": "locator",
     "status": "up",
-    "uptime": "90.22%",
+    "uptime": "90.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -222,15 +222,15 @@
     "url": "https://samplelocator.bbmri.de",
     "icon": "https://icons.duckduckgo.com/ip3/samplelocator.bbmri.de.ico",
     "slug": "bbmri-de-sample-locator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.91%",
-    "time": 1177,
+    "time": 1176,
     "timeDay": 1269,
-    "timeWeek": 929,
+    "timeWeek": 909,
     "timeMonth": 879,
     "timeYear": 1150,
     "dailyMinutesDown": {
@@ -243,7 +243,8 @@
       "2026-04-22": 27,
       "2026-06-07": 18,
       "2026-06-16": 79,
-      "2026-06-28": 72
+      "2026-06-28": 72,
+      "2026-07-05": 0
     }
   },
   {
