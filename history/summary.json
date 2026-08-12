@@ -104,21 +104,21 @@
     "url": "https://login.aai.lifescience-ri.eu/oidc/.well-known/openid-configuration",
     "icon": "https://lifescience-ri.eu/fileadmin/lifescience-ri/media/Images/login-grey-wide.jpg.png",
     "slug": "life-science-login",
-    "status": "down",
+    "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 1431,
-    "timeDay": 1006,
-    "timeWeek": 1547,
+    "timeDay": 1271,
+    "timeWeek": 1546,
     "timeMonth": 1526,
     "timeYear": 1456,
     "dailyMinutesDown": {
       "2026-03-05": 26,
       "2026-03-16": 30,
-      "2026-08-12": 2
+      "2026-08-12": 25
     }
   },
   {
@@ -126,17 +126,17 @@
     "url": "https://perun.aai.lifescience-ri.eu",
     "icon": "https://perun.aai.lifescience-ri.eu/assets/img/perun.ico",
     "slug": "life-science-login-id-m-perun",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1271,
-    "timeDay": 1068,
-    "timeWeek": 1200,
-    "timeMonth": 1291,
-    "timeYear": 1294,
+    "time": 1256,
+    "timeDay": 1102,
+    "timeWeek": 1192,
+    "timeMonth": 1286,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2025-11-19": 45,
       "2026-01-11": 41,
@@ -144,7 +144,7 @@
       "2026-03-05": 25,
       "2026-03-16": 30,
       "2026-03-24": 53,
-      "2026-08-12": 0
+      "2026-08-12": 23
     }
   },
   {
