@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbmri-eric.eu.ico",
     "slug": "bbmri-eric",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,7 +13,7 @@
     "time": 2496,
     "timeDay": 2297,
     "timeWeek": 3002,
-    "timeMonth": 3034,
+    "timeMonth": 3013,
     "timeYear": 2595,
     "dailyMinutesDown": {
       "2026-01-13": 22,
@@ -46,7 +46,7 @@
     "time": 806,
     "timeDay": 853,
     "timeWeek": 1002,
-    "timeMonth": 833,
+    "timeMonth": 846,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2025-11-22": 16,
@@ -67,7 +67,7 @@
     "time": 1144,
     "timeDay": 1394,
     "timeWeek": 1388,
-    "timeMonth": 1344,
+    "timeMonth": 1354,
     "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-12-03": 313,
@@ -92,7 +92,7 @@
     "time": 937,
     "timeDay": 1063,
     "timeWeek": 1023,
-    "timeMonth": 944,
+    "timeMonth": 951,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2025-12-22": 54
@@ -112,7 +112,7 @@
     "time": 1416,
     "timeDay": 1049,
     "timeWeek": 1360,
-    "timeMonth": 1419,
+    "timeMonth": 1427,
     "timeYear": 1450,
     "dailyMinutesDown": {
       "2026-03-05": 26,
@@ -134,7 +134,7 @@
     "time": 1267,
     "timeDay": 1073,
     "timeWeek": 1347,
-    "timeMonth": 1284,
+    "timeMonth": 1292,
     "timeYear": 1293,
     "dailyMinutesDown": {
       "2025-11-19": 45,
@@ -160,7 +160,7 @@
     "time": 739,
     "timeDay": 495,
     "timeWeek": 881,
-    "timeMonth": 803,
+    "timeMonth": 805,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2025-11-12": 46,
@@ -216,16 +216,16 @@
     "url": "https://samplelocator.bbmri.de",
     "icon": "https://icons.duckduckgo.com/ip3/samplelocator.bbmri.de.ico",
     "slug": "bbmri-de-sample-locator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1152,
+    "time": 1153,
     "timeDay": 946,
     "timeWeek": 996,
-    "timeMonth": 1162,
+    "timeMonth": 1174,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2026-01-10": 18,
@@ -239,7 +239,8 @@
       "2026-06-16": 79,
       "2026-06-28": 72,
       "2026-07-05": 23,
-      "2026-07-21": 64
+      "2026-07-21": 64,
+      "2026-09-07": 0
     }
   },
   {
@@ -256,7 +257,7 @@
     "time": 962,
     "timeDay": 1153,
     "timeWeek": 1486,
-    "timeMonth": 1401,
+    "timeMonth": 1407,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2026-02-11": 40,
