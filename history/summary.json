@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbmri-eric.eu.ico",
     "slug": "bbmri-eric",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -86,19 +86,20 @@
     "url": "https://helpdesk.bbmri-eric.eu/RT",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.bbmri-eric.eu.ico",
     "slug": "helpdesk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 943,
+    "time": 944,
     "timeDay": 693,
     "timeWeek": 739,
     "timeMonth": 853,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2025-12-22": 54
+      "2025-12-22": 54,
+      "2026-11-23": 0
     }
   },
   {
