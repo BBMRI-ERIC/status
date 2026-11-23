@@ -86,20 +86,20 @@
     "url": "https://helpdesk.bbmri-eric.eu/RT",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.bbmri-eric.eu.ico",
     "slug": "helpdesk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 944,
-    "timeDay": 693,
-    "timeWeek": 739,
-    "timeMonth": 853,
-    "timeYear": 956,
+    "timeDay": 616,
+    "timeWeek": 714,
+    "timeMonth": 844,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2025-12-22": 54,
-      "2026-11-23": 0
+      "2026-11-23": 14
     }
   },
   {
